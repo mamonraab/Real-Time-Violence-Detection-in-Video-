@@ -2,6 +2,7 @@
 #
 The source code associated with the paper [ Robust Real-Time Violence Detection in Video Using CNN And LSTM ](https://ieeexplore.ieee.org/document/8852616)
 
+for simple demo please see this video https://www.youtube.com/watch?v=qeFrjFa5Rxc
 
 the trained wights  can be downloaded from this url  https://drive.google.com/file/d/11IN2npH3i8PhzECNMcxfIQNFWPROr5gt/view?usp=sharing
 
