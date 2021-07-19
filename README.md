@@ -1,3 +1,6 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/robust-real-time-violence-detection-in-video/video-classification-on-hockey-fight)](https://paperswithcode.com/sota/video-classification-on-hockey-fight?p=robust-real-time-violence-detection-in-video)
+
+
 # Real Time Violence Detection in Video
 #
 The source code associated with the paper [ Robust Real-Time Violence Detection in Video Using CNN And LSTM ](https://ieeexplore.ieee.org/document/8852616)
