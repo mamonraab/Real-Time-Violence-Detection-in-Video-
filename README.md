@@ -14,6 +14,8 @@ Detection of a violence event in surveillance systems is playing a significant r
 
 ## please use Tensorflow version 2.0.0 ,  the other dependencies is  numpy   skimage.io   opencv  PIL , BytesIO , time
 
+## training wight on kaggle https://www.kaggle.com/datasets/iraqai/violencewights-combo94-cnn-lstm
+## full usage example on kaggle https://www.kaggle.com/code/iraqai/real-time-violence-detection-in-video
 
 ##  if you use pytorch i build another model with pytorch   you can found it here  https://github.com/mamonraab/violance-detection-in-video-with-pytroch
 
